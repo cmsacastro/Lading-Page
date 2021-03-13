@@ -1,0 +1,20 @@
+.banner{
+  display: flex;
+  height: 600px;
+  background-position: center;
+  color: white;
+  align-items: center;
+  padding-left: 60px;
+}
+
+.banner p {
+  margin: 0;
+  padding-bottom: 42px;
+  font-size: 20px;
+  color: #b5b5b5;
+}
+
+.banner h1 {
+  padding-bottom: 16px;
+  margin: 0;
+}
